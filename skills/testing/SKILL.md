@@ -103,7 +103,7 @@ Design principles for writing testable code:
 - Depend on interfaces rather than concrete classes.
 - Easy to create mocks for testing.
 
-See [TESTABLE-DESIGN.md](refereneces/TESTABLE-DESIGN.md) for details.
+See [TESTABLE-DESIGN.md](references/TESTABLE-DESIGN.md) for details.
 
 ## 📊 Quick Start
 

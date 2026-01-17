@@ -142,7 +142,7 @@ Always verify upon completion of code implementation:
 
 ## 📖 Navigation to Detailed Guides
 
-### [OWASP Top 10 Countermeasures](OWASP-TOP10.md)
+### [OWASP Top 10 Countermeasures](references/OWASP-TOP10.md)
 Detailed explanation and measures for each OWASP Top 10 vulnerability:
 - A01: Broken Access Control
 - A02: Cryptographic Failures
@@ -155,7 +155,7 @@ Detailed explanation and measures for each OWASP Top 10 vulnerability:
 - A09: Security Logging and Monitoring Failures
 - A10: Server-Side Request Forgery
 
-### [Input Validation and Injection Countermeasures](INPUT-VALIDATION.md)
+### [Input Validation and Injection Countermeasures](references/INPUT-VALIDATION.md)
 Input validation, sanitization, and countermeasures against various injection attacks:
 - Implementation of input validation
 - Sanitization techniques
@@ -164,7 +164,7 @@ Input validation, sanitization, and countermeasures against various injection at
 - CSRF (Cross-Site Request Forgery) countermeasures
 - Command Injection countermeasures
 
-### [Authentication, Authorization, and Secrets Management](AUTH-SECRETS.md)
+### [Authentication, Authorization, and Secrets Management](references/AUTH-SECRETS.md)
 Secure management of authentication, authorization, and secrets:
 - Secure authentication implementation
 - Authorization and access control
@@ -173,7 +173,7 @@ Secure management of authentication, authorization, and secrets:
 - Encryption and hashing
 - Secure use of JWT tokens
 
-### [Secure Headers and Other Measures](SECURE-HEADERS.md)
+### [Secure Headers and Other Measures](references/SECURE-HEADERS.md)
 HTTP headers, file uploads, and other security measures:
 - Configuration of secure HTTP headers
 - File upload countermeasures
