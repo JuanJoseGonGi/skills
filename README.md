@@ -13,3 +13,4 @@ Some of the guides in this repository (such as the Go development guide) were ad
 - **Testing**: A test-first approach focusing on TDD, the Test Pyramid, and testable design.
 - **Securing Code**: Implementation of OWASP countermeasures and security best practices.
 - **Writing Dockerfiles**: Optimization and security for containerized environments.
+- **CodeGuard Security**: Integrated security rules and guidelines from [Project CodeGuard](https://github.com/project-codeguard/rules) (added as a git submodule).

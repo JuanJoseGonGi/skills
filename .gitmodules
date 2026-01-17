@@ -1,0 +1,3 @@
+[submodule "codeguard-security"]
+	path = codeguard-security
+	url = https://github.com/project-codeguard/rules.git
