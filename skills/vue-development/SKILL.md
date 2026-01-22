@@ -12,11 +12,11 @@ This skill provides a comprehensive guide to developing Vue.js applications usin
 
 ## Workflow
 
-1.  **Setup & Structure**: Refer to [Project Structure](./vue-project-structure.md) for organizing your codebase based on scale (Simple vs. Modular/Feature-Sliced).
-2.  **Component Development**: Follow [Component Patterns](./vue-component-patterns.md) for clean, reusable, and typed components.
-3.  **State Management**: Implement global state using [State Management Guide](./vue-state-management.md).
-4.  **Testing**: Apply the [Testing Strategy](./vue-testing-strategy.md) (Test Pyramid: Unit > Component > E2E).
-5.  **Optimization**: continuously apply techniques from the [Performance Guide](./vue-performance-guide.md).
+1.  **Setup & Structure**: Refer to [Project Structure](references/vue-project-structure.md) for organizing your codebase based on scale (Simple vs. Modular/Feature-Sliced).
+2.  **Component Development**: Follow [Component Patterns](references/vue-component-patterns.md) for clean, reusable, and typed components.
+3.  **State Management**: Implement global state using [State Management Guide](references/vue-state-management.md).
+4.  **Testing**: Apply the [Testing Strategy](references/vue-testing-strategy.md) (Test Pyramid: Unit > Component > E2E).
+5.  **Optimization**: continuously apply techniques from the [Performance Guide](references/vue-performance-guide.md).
 
 ## Critical Rules (The "Golden Rules")
 
